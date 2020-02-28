@@ -173,7 +173,9 @@ header {
 .image-2nd-app {
   background-image: url(images/fridge-app-screenshot.png);
 }
-
+.image-shopping-app{
+  background-image: url(images/fridge-app-screenshot.png);
+}
 
 /* Contact Styling */
 
