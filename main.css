@@ -176,6 +176,9 @@ header {
 .image-shopping-app {
   background-image: url(images/shopping-list-1.png);
 }
+.image-nearby-app {
+  background-image: url(images/nearby-screenshot.png)
+}
 
 /* Contact Styling */
 
